@@ -1,0 +1,4 @@
+Model Type,Algorithm Used,MAE (kg/ha),RMSE (kg/ha),R²
+Physical Model Only,Deterministic Physics Equations,175.238,40201.628,-1.573
+Machine Learning Only,Linear Regression,10.361,178.212,0.989
+Hybrid Digital Twin (Proposed),Physics + Linear Regression (Residual),10.361,178.212,0.989
